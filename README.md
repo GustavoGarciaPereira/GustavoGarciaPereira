@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoGarciaPereira&count_private=true&layout=vue-dark&hide=stars,commits)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoGarciaPereira&hide=stars,commits&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGarciaPereira&layout=compact)](https://github.com/GustavoGarciaPereira/github-readme-stats)
