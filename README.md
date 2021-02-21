@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoGarciaPereira&layout=cobalt&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoGarciaPereira&hide=prs,issues,contribs&theme=vue-dark&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGarciaPereira&layout=compact)](https://github.com/GustavoGarciaPereira/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGarciaPereira&layout=compact&theme=vue-dark)](https://github.com/GustavoGarciaPereira/github-readme-stats)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustavoGarciaPereira&repo=editor_texto&theme=vue-dark)](https://github.com/GustavoGarciaPereira/editor_texto)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustavoGarciaPereira&repo=gustavo_pereia.github.io&theme=vue-dark)](https://github.com/GustavoGarciaPereira/gustavo_pereia.github.io)
