@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 
 <h1 style="text-align:center"></h1>
 
-![gustavo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/1024px-Icons8_flat_linux.svg.png)
+![gustavo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.VSNRRqKrR_8gUxu2rcVmsAAAAA%26pid%3DApi&f=1)
