@@ -1,7 +1,10 @@
 <h1 style="text-align:center">
 
 Seja bem-vindo 👋🔭
-
+  meus Intereces 
+[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
+  [![Open Source Society University - Bioinformatics ](https://img.shields.io/badge/OSSU-bioinformatics-blue.svg)](https://github.com/open-source-society/bioinformatics)
+  
 </h1>
 
 <!--
