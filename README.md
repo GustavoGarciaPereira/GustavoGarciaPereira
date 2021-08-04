@@ -6,7 +6,7 @@ Seja bem-vindo 👋🔭
 ![grab-landing-page](https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif)
   
   
-## meus Intereces 
+## Meus Interesses 
   
   
 [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
