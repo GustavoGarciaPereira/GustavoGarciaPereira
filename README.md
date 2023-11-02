@@ -1,8 +1,9 @@
 <h1 style="text-align:center">
 
 Seja bem-vindo 👋🔭
+<!--
 [![An image of @gustavogarciapereira's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gustavogarciapereira)](https://holopin.io/@gustavogarciapereira)
-
+-->
 
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fisabellyavelar&count_bg=%23D2186B&title_bg=%230F0Ecolor=https%3A%2F%2Fgithub.com%2Fisabellyavelar&count_bg=%23D2186B&title_bg=%230F0Ecolor=E&icon=iconify.sviconify%23BD0D87&title=Perfil+visualizações&edge_flat=true)](https://hits.seeyoufarm.com)
