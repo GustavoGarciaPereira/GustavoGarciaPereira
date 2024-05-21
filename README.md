@@ -6,8 +6,6 @@ Seja bem-vindo 👋🔭
 [meu site pessoal](https://gustavogarciapereira.com.br/)
 [meu blog](https://gustavogarciapereira.github.io/meu_blog_com_zola/blog/)
 <!--
-
-
 [![An image of @gustavogarciapereira's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gustavogarciapereira)](https://holopin.io/@gustavogarciapereira)
 -->
 
