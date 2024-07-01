@@ -2,9 +2,6 @@
 Seja bem-vindo 👋🔭
 
 
-
-
-
 [meu site pessoal](https://gustavogarciapereira.com.br/)
 [meu blog](https://gustavogarciapereira.github.io/meu_blog_com_zola/blog/)
 <!--
