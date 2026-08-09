@@ -7,15 +7,7 @@ Seja bem-vindo 👋🔭
 [![An image of @gustavogarciapereira's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gustavogarciapereira)](https://holopin.io/@gustavogarciapereira)
 -->
 
-<!--
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGustavoGarciaPereira&count_bg=%23D2186B&title_bg=%230F0E3E&icon=github.svg&icon_color=%23BD0D87&title=Perfil+visualizações&edge_flat=true)](https://hits.seeyoufarm.com)
-
--->
-<!--
 ![grab-landing-page](https://i.pinimg.com/originals/80/fb/20/80fb20a4778ca8143bc26a8eb78492ee.gif)
-![grab-landing-page](https://i.giphy.com/E6jscXfv3AkWQ.gif)
--->
-
   
 ## Meus Interesses 
   
@@ -42,15 +34,16 @@ Here are some ideas to get you started:
 
 <div style="text-align:center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoGarciaPereira&hide=prs,issues,contribs&theme=vue-dark&count_private=true)
+[![Seguidores](https://img.shields.io/github/followers/GustavoGarciaPereira?style=for-the-badge&logo=github&label=Seguidores&color=42b883)](https://github.com/GustavoGarciaPereira)
+[![Estrelas](https://img.shields.io/github/stars/GustavoGarciaPereira?style=for-the-badge&logo=github&label=Estrelas&color=42b883)](https://github.com/GustavoGarciaPereira)
 
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGarciaPereira&layout=compact&theme=vue-dark)](https://github.com/GustavoGarciaPereira/github-readme-stats)
+[![editor_texto](https://img.shields.io/github/stars/GustavoGarciaPereira/editor_texto?style=for-the-badge&logo=github&label=editor_texto)](https://github.com/GustavoGarciaPereira/editor_texto)
+[![editor_texto linguagem](https://img.shields.io/github/languages/top/GustavoGarciaPereira/editor_texto?style=for-the-badge&label=Linguagem)](https://github.com/GustavoGarciaPereira/editor_texto)
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustavoGarciaPereira&repo=editor_texto&theme=vue-dark)](https://github.com/GustavoGarciaPereira/editor_texto)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustavoGarciaPereira&repo=gustavo_pereia.github.io&theme=vue-dark)](https://github.com/GustavoGarciaPereira/gustavo_pereia.github.io)
+[![site](https://img.shields.io/github/stars/GustavoGarciaPereira/gustavo_pereia.github.io?style=for-the-badge&logo=github&label=site)](https://github.com/GustavoGarciaPereira/gustavo_pereia.github.io)
+[![site linguagem](https://img.shields.io/github/languages/top/GustavoGarciaPereira/gustavo_pereia.github.io?style=for-the-badge&label=Linguagem)](https://github.com/GustavoGarciaPereira/gustavo_pereia.github.io)
 
 
 <h1 style="text-align:center"></h1>
