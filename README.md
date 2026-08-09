@@ -1,11 +1,21 @@
 <h1 style="text-align:center">
-
 Seja bem-vindo 👋🔭
+
+[meu site pessoal](https://gustavogarciapereira.com.br/)
+[meu blog](https://gustavogarciapereira.github.io/meu_blog_com_zola/blog/)
+<!--
+[![An image of @gustavogarciapereira's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gustavogarciapereira)](https://holopin.io/@gustavogarciapereira)
+-->
+
+<!--
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGustavoGarciaPereira&count_bg=%23D2186B&title_bg=%230F0E3E&icon=github.svg&icon_color=%23BD0D87&title=Perfil+visualizações&edge_flat=true)](https://hits.seeyoufarm.com)
-   
+
+-->
+<!--
 ![grab-landing-page](https://i.pinimg.com/originals/80/fb/20/80fb20a4778ca8143bc26a8eb78492ee.gif)
 ![grab-landing-page](https://i.giphy.com/E6jscXfv3AkWQ.gif)
-  
+-->
+
   
 ## Meus Interesses 
   
